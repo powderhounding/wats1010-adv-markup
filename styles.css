@@ -14,7 +14,7 @@ a.active { /*any link with the class "active"*/
     margin: 20px;
     margin-top:10px;
     padding: 10px;
-    display:inline;
+    display:block;
 }
 .poem {
     list-style-type:none;
